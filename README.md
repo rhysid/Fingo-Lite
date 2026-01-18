@@ -1,12 +1,4 @@
 # Fingo-Lite
-███████╗██╗███╗   ██╗ ██████╗  ██████╗       ██╗     ██╗████████╗███████╗
-██╔════╝██║████╗  ██║██╔════╝ ██╔═══██╗      ██║     ██║╚══██╔══╝██╔════╝
-█████╗  ██║██╔██╗ ██║██║  ███╗██║   ██║█████╗██║     ██║   ██║   █████╗  
-██╔══╝  ██║██║╚██╗██║██║   ██║██║   ██║╚════╝██║     ██║   ██║   ██╔══╝  
-██║     ██║██║ ╚████║╚██████╔╝╚██████╔╝      ███████╗██║   ██║   ███████╗
-╚═╝     ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚═════╝       ╚══════╝╚═╝   ╚═╝   ╚══════╝
-
-# FINGO-LITE
 
 FINGO-LITE adalah bot Telegram untuk mencatat keuangan pribadi.  
 Bot ini membantu pengguna mencatat pemasukan dan pengeluaran, memantau saldo, serta melihat riwayat dan rekap keuangan dengan cara yang sederhana dan efisien.

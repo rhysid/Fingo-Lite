@@ -49,7 +49,7 @@ Contoh:
 ## Instalasi
 
 1. Clone repository  
-git clone https://github.com/yourusername/fingo-lite.git  
+git clone https://github.com/rhysid/fingo-lite.git  
 cd fingo-lite  
 
 2. Install dependency  
